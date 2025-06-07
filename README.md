@@ -1,4 +1,6 @@
 # Jogos Olímpicos de Paris 2024 - Dashboard
+![Jogos Olímpicos de Paris 2024 - Dashboard](dash-imagem.png)
+
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI que exibe a análise de medalhas conquistadas durante os Jogos Olímpicos de Paris 2024. O objetivo principal do dashboard é fornecer uma visão clara e visualmente atrativa sobre a distribuição de medalhas por país, gênero e disciplina, bem como a participação dos países em diferentes esportes.
 
 ## Descrição do Projeto
